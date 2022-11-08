@@ -81,7 +81,6 @@ CodeIgniter has had thousands on contributions from people since its creation. T
   <img src="https://contrib.rocks/image?repo=codeigniter4/CodeIgniter4" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
 
 ## Server Requirements
 
