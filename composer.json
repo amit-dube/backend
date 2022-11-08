@@ -1,0 +1,17 @@
+{
+    "name": "amit/codeigniter4",
+    "autoload": {
+        "psr-4": {
+            "Amit\\Codeigniter4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amit",
+            "email": "chicu_dube@yahoo.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    }
+}
